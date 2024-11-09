@@ -1,3 +1,3 @@
-API = '7e042235e22e3e25297ec7ce73c3f4d3'
+API = 'your API'
 
-TOKEN = '6634118694:AAEuDzt43Iheqf_TBr7K-HqgGSuasOl4Vy8'
+TOKEN = 'your token'
